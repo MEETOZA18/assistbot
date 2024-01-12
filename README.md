@@ -1,6 +1,6 @@
-#AssistBot 
+AssistBot 
 
-##The Problem
+The Problem
 
 Climate Change is real and farmers are one of the first
 ones to be affected by it. To adapt to climate change
@@ -13,3 +13,7 @@ application process and there are multiple points of
 contact that the farmer has to reach out to for
 assistance. Not every farmer is tech-savvy enough to
 navigate all of this and there is a need to simplify this process.
+
+Introducing Farmer’s AssistBot: 
+
+A simple to use Chatbot powered by LLMs trained to specifically answer farmer’s questions!
